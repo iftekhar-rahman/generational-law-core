@@ -1,0 +1,19 @@
+
+.gn-socials-wrap ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.gn-socials-wrap ul li a {
+    display: block;
+    width: 32px;
+    height: 32px;
+}
+.gn-socials-wrap ul li {
+    margin-left: 12px;
+}
+.gn-socials-wrap ul li:first-child {
+    margin-left: 0;
+}
